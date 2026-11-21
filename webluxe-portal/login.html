@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Login — Webluxe</title>
+    <meta name="robots" content="noindex, nofollow" />
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/responsive.css" />
+    <link rel="stylesheet" href="/css/admin.css" />
+  </head>
+  <body class="admin-body">
+    <main class="login-shell">
+      <div class="login-card">
+        <div style="display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:24px;">
+          <a href="/index.html" class="brand-wordmark">
+            <span class="brand-mark-icon" aria-hidden="true">W</span>
+            <span class="logo-text-group"><span class="logo-web">WEB</span><span class="logo-luxe">LUXE</span>&nbsp;<span>Admin</span></span>
+          </a>
+          <button type="button" id="admin-theme-toggle" class="theme-toggle-btn" aria-label="Switch color theme"></button>
+        </div>
+
+        <h1 style="font-size:1.65rem;margin-bottom:8px;">Sign In to CMS</h1>
+        <p style="font-size:0.9375rem;color:var(--text-secondary);margin-bottom:24px;">Manage services, portfolio projects, blog posts, leads, SEO, and site settings.</p>
+
+        <form id="admin-login-form" novalidate>
+          <div class="form-group">
+            <label class="form-label" for="login-email">Admin Email</label>
+            <input id="login-email" type="email" required class="input-control" placeholder="webluxeadmin@gmail.com" />
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="login-password">Password</label>
+            <input id="login-password" type="password" required class="input-control" placeholder="Enter demo password" />
+          </div>
+          <div id="login-error" class="form-error" style="margin-bottom:12px;"></div>
+          <button type="submit" class="btn btn-primary" style="width:100%;">Sign In to Dashboard</button>
+          <button type="button" id="fill-demo-creds" class="btn btn-secondary" style="width:100%;margin-top:10px;">Fill Demo Credentials</button>
+        </form>
+
+        <div class="demo-notice">
+          <strong>Frontend Demo Notice:</strong> This preview uses browser LocalStorage for mock authentication and content persistence. Production deployments must use a real backend (such as Firebase Auth or Supabase) with password hashing and server-validated sessions.
+          <div style="margin-top:8px;" class="mono-num">
+            Email: webluxeadmin@gmail.com<br />
+            Pass: WebluxeAdmin2026!
+          </div>
+        </div>
+
+        <div style="margin-top:18px;text-align:center;">
+          <a href="/index.html" style="font-size:0.875rem;color:var(--color-cyan);">← Back to Public Website</a>
+        </div>
+      </div>
+    </main>
+
+    <script src="/js/data.js" defer></script>
+    <script src="/js/storage.js" defer></script>
+    <script src="/js/admin.js" defer></script>
+  </body>
+</html>

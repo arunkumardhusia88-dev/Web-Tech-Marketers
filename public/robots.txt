@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /webluxe-portal/
+
+Sitemap: /sitemap.xml
+# AI Search / LLM Context: /llms.txt

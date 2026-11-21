@@ -1,0 +1,61 @@
+# Webluxe
+
+> Grow your business with WEBLUXE, a results-driven digital marketing and AI automation agency offering SEO, Google Ads, social media marketing, website development, and AI-powered automation solutions.
+
+- Website: /index.html
+- Contact Phone / WhatsApp: 9115277587
+- Email: webluxeadmin@gmail.com
+- Address: 131 Sulem Sarai, Prayagraj
+
+## Core Pages
+
+- [Home](/index.html): Overview of Webluxe services, results, pricing, FAQs, and consultation booking
+- [About Webluxe](/about.html): Agency mission, vision, leadership experience, and 4-step delivery framework
+- [Pricing Plans](/pricing.html): Launch Plan (₹9,999/mo), Growth Plan (₹19,999/mo), and Scale Plan (Custom Pricing) for Digital Marketing, Websites & AI Automation
+- [Blog & Playbooks](/blog.html): Practical guides on AI lead qualification, server-side ad tracking, commercial SEO, and WhatsApp automation
+- [Contact & Consultation](/contact.html): Book a free 30-minute growth and AI automation audit
+
+## Digital Marketing Services
+
+- [SEO Optimization](/services/service.html?slug=seo-optimization): Technical site architecture, search intent mapping, and authority content
+- [Local SEO](/services/service.html?slug=local-seo): Google Business Profile optimization, local citations, and geo-targeted landing pages
+- [Social Media Marketing](/services/service.html?slug=social-media-marketing): Executive thought leadership, short-form video systems, and community demand
+- [Google Ads Management](/services/service.html?slug=google-ads-management): High-intent Search, Shopping, and Performance Max calibrated to closed-won revenue
+- [Meta Ads Management](/services/service.html?slug=meta-ads-management): Creative testing sprints and server-side Conversion API tracking
+- [YouTube Marketing](/services/service.html?slug=youtube-marketing): Video search optimization and direct-response YouTube ad funnels
+- [Content Marketing](/services/service.html?slug=content-marketing): Case studies, technical whitepapers, and B2B conversion assets
+- [Email Marketing](/services/service.html?slug=email-marketing): Segmented lifecycle flows, cart recovery, and outbound nurture sequences
+- [Lead Generation](/services/service.html?slug=lead-generation): Multi-channel outbound and paid inbound systems
+- [Conversion Rate Optimization](/services/service.html?slug=conversion-rate-optimization): Heatmap diagnostics, multivariate A/B testing, and checkout optimization
+
+## AI Automation Services
+
+- [AI Chatbot Development](/services/service.html?slug=ai-chatbot-development): Custom LLM assistants trained on your knowledge base for 24/7 support and meeting booking
+- [WhatsApp Automation](/services/service.html?slug=whatsapp-automation): Official WhatsApp Business API bots for instant enquiry handling and reminders
+- [CRM Automation](/services/service.html?slug=crm-automation): Automated pipeline stages, lead enrichment, and deal scoring in HubSpot, Salesforce, and Pipedrive
+- [AI Workflow Automation](/services/service.html?slug=ai-workflow-automation): End-to-end Make, n8n, and custom API workflows connecting marketing and operations
+- [AI Voice Agents](/services/service.html?slug=ai-voice-agents): Low-latency conversational voice agents for reception, booking, and qualification
+- [Business Process Automation](/services/service.html?slug=business-process-automation): Automated document parsing, client onboarding, and reporting
+- [AI Lead Qualification](/services/service.html?slug=ai-lead-qualification): Instant scoring, firmographic enrichment, and personalized outreach under 60 seconds
+- [Marketing Automation](/services/service.html?slug=marketing-automation): Behavior-triggered omnichannel journeys across email, SMS, WhatsApp, and retargeting
+
+## Web Development Services
+
+- [Business Website Development](/services/service.html?slug=business-website-development): Fast, SEO-engineered corporate websites built for conversion
+- [Landing Page Development](/services/service.html?slug=landing-page-development): High-converting campaign landing pages with sub-second load speed
+- [E-commerce Website Development](/services/service.html?slug=ecommerce-website-development): Custom Shopify and headless storefronts engineered for average order value
+- [Website Maintenance](/services/service.html?slug=website-maintenance): Security monitoring, Core Web Vitals optimization, and uptime backups
+
+## Client Case Studies
+
+- [Solis Botanicals D2C Revenue Scaling](/portfolio/project.html?slug=solis-botanicals-ecommerce-scaling): +168% net revenue in 6 months via Meta CAPI and retention automation
+- [Meridian Cloud B2B Pipeline & AI Qualification](/portfolio/project.html?slug=meridian-cloud-b2b-ai-pipeline): +140% qualified demos in 90 days with 38-second median speed-to-lead
+- [Harborview Clinics AI Voice & WhatsApp Triage](/portfolio/project.html?slug=harborview-medical-ai-voice-whatsapp): 92% inbound call answer rate and 41% fewer no-shows
+- [Northstar Freight SEO & Conversion Website](/portfolio/project.html?slug=northstar-logistics-seo-web-overhaul): +310% organic RFP inquiries with 0.7s First Contentful Paint
+- [Kestrel Wealth Advisory Lead Generation Engine](/portfolio/project.html?slug=kestrel-wealth-content-lead-engine): $4.2M new advisory pipeline in 5 months
+- [Apex Industrial AI Document & Onboarding Ops](/portfolio/project.html?slug=apex-industrial-ai-onboarding-ops): 32 hours saved weekly with 99.1% SKU extraction accuracy
+
+## Optional
+
+- [XML Sitemap](/sitemap.xml): Complete machine-readable site index
+- [Robots Policy](/robots.txt): Crawler access rules

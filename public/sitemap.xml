@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/index.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>/about.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/pricing.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/blog.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>/contact.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=seo-optimization</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=local-seo</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=social-media-marketing</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=google-ads-management</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=meta-ads-management</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=youtube-marketing</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=content-marketing</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=email-marketing</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=lead-generation</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=conversion-rate-optimization</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=ai-chatbot-development</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=whatsapp-automation</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=crm-automation</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=ai-workflow-automation</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=ai-voice-agents</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=business-process-automation</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=ai-lead-qualification</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=marketing-automation</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=business-website-development</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=landing-page-development</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=ecommerce-website-development</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/services/service.html?slug=website-maintenance</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/portfolio/project.html?slug=solis-botanicals-ecommerce-scaling</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/portfolio/project.html?slug=meridian-cloud-b2b-ai-pipeline</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/portfolio/project.html?slug=harborview-medical-ai-voice-whatsapp</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/portfolio/project.html?slug=northstar-logistics-seo-web-overhaul</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/portfolio/project.html?slug=kestrel-wealth-content-lead-engine</loc><changefreq>monthly</changefreq></url>
+  <url><loc>/portfolio/project.html?slug=apex-industrial-ai-onboarding-ops</loc><changefreq>monthly</changefreq></url>
+</urlset>

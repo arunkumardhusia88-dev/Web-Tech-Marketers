@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Portal — Webluxe</title>
+    <script src="/js/data.js"></script>
+    <script src="/js/storage.js"></script>
+    <script>
+      if (window.VeltrixStorage && window.VeltrixStorage.getAdminSession()) {
+        window.location.replace('/webluxe-portal/dashboard.html');
+      } else {
+        window.location.replace('/webluxe-portal/login.html');
+      }
+    </script>
+  </head>
+  <body></body>
+</html>

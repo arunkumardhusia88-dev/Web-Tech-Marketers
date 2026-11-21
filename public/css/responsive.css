@@ -1,0 +1,150 @@
+/* ==========================================================================
+   Veltrix Growth — Responsive Breakpoints (Laptop, Tablet, Mobile)
+   ========================================================================== */
+
+@media (max-width: 1200px) {
+  .services-grid,
+  .portfolio-grid,
+  .blog-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .highlights-grid,
+  .process-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 1024px) {
+  .main-nav,
+  .header-actions .btn-primary {
+    display: none;
+  }
+
+  .mobile-toggle {
+    display: inline-flex;
+  }
+
+  .hero-grid,
+  .about-grid,
+  .contact-grid,
+  .newsletter-box,
+  .detail-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .detail-sidebar {
+    position: static;
+  }
+
+  .pricing-grid {
+    grid-template-columns: 1fr;
+    max-width: 560px;
+    margin-inline: auto;
+  }
+
+  .stats-strip {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .stat-cell:nth-child(2) {
+    border-right: none;
+  }
+
+  .stat-cell:nth-child(1),
+  .stat-cell:nth-child(2) {
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .section-header--row {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+
+@media (max-width: 768px) {
+  :root {
+    --header-height: 64px;
+  }
+
+  .section {
+    padding-block: 60px;
+  }
+
+  .container {
+    padding-inline: 18px;
+  }
+
+  .highlights-grid,
+  .services-grid,
+  .portfolio-grid,
+  .blog-grid,
+  .process-grid,
+  .about-pillars,
+  .about-checklist,
+  .two-col-list,
+  .form-grid-2,
+  .gallery-grid,
+  .footer-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .promo-banner-content {
+    padding: 32px 24px;
+  }
+
+  .newsletter-box {
+    padding: 28px 22px;
+  }
+
+  .newsletter-form {
+    flex-direction: column;
+  }
+
+  .testimonials-shell {
+    padding: 26px 20px;
+  }
+
+  .testimonial-slide.is-active {
+    grid-template-columns: 1fr;
+    gap: 18px;
+  }
+
+  .form-card {
+    padding: 24px 20px;
+  }
+
+  /* Keep floating WhatsApp compact on mobile (15% sticky height cap) */
+  .whatsapp-float {
+    right: 16px;
+    bottom: 16px;
+    width: 48px;
+    height: 48px;
+    padding: 0;
+    justify-content: center;
+  }
+
+  .whatsapp-float span {
+    display: none;
+  }
+}
+
+@media (max-width: 480px) {
+  .stats-strip,
+  .about-metrics-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stat-cell {
+    border-right: none;
+    border-bottom: 1px solid var(--border-subtle);
+  }
+
+  .stat-cell:last-child {
+    border-bottom: none;
+  }
+}
